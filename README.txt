@@ -1,0 +1,1 @@
+Upload  this document in watson discovery and train it properly in order to improve the chatbot's results.
