@@ -6,4 +6,5 @@ If the question is typical then the project shall use the Smart Document Underst
 This will improve the answers returned from the queries.
 The skills required for this project are Python,Artificial Intelligence,knowledge of chatbot,IBM Watson Assistant,IBM Cloud.
 The software required for this project are IBM Watson Discovery ,Watson Assistant,Node-red and Cloud Functions. 
+CheckOut The Youtube Link For More Details-https://youtu.be/YQdYcutlNjM
  
